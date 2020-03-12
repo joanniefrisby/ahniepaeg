@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zohquoose.soundheadspromotions.com/sitemap.xml
